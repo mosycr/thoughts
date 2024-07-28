@@ -5,7 +5,7 @@ layout: post
 category: AI, LLM
 ---
 
-##LLM providers should be regulated like telecom
+## LLM providers should be regulated like telecom
 
 A huge amount of VC and global attention is focussed on building large language models and companies like OpenAI are all the rage. 
 
