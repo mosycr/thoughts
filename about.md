@@ -3,15 +3,24 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+### _Patience, Perseverance, Equanimity and a bias towards action_
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+### _Great success can only be achieved by overcoming greater odds_
+
+### _Clarity of thought can solve the most complex problems_
+
+_Hi, I'm Mayank._ <br />
+
+My journey in the tech industry spans nearly two decades, with a significant part dedicated to bootstrapping my own ventures. From high tech to healthcare IT, e-commerce, and influencer-led commerce, my experience covers a broad spectrum of sectors, each offering its unique set of challenges and learnings.
+
+Currently, I lead technology at [The Ayurveda Experience](https://www.theayurvedaexperience.com), a Skincare D2C company, where we leverage cutting-edge technology to drive efficiencies accross the supply chain, improve customer experience and enhance traditional skincare wisdom.
+
+As we stand on the brink of a new era with AI transforming every aspect of our lives, I am especially excited about the advancements we are making in this field. I'm keen to invest in AI-first projects that resonate with my belief in technology's power to solve complex problems and improve lives.
+
+### Looking Forward
+
+I believe that the intersection of AI and traditional sectors holds untapped potential for world beating solutions. My goal is to connect with like-minded entrepreneurs, technologists, and innovators eager to explore this frontier. If you are working on an AI-first project, I would love to hear from you.
+
+Let's embark on this journey together, harnessing the power of AI to create groundbreaking solutions.
