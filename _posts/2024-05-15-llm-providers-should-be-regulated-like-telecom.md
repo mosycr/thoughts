@@ -1,6 +1,6 @@
 ---
 title: LLM providers should be regulated like telecom
-date: 2025-05-15
+date: 2024-05-15
 layout: post
 category: AI, LLM
 ---
