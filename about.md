@@ -15,7 +15,7 @@ _Hi, I'm Mayank._ <br />
 
 My journey in the tech industry spans nearly two decades, with a significant part dedicated to bootstrapping my own ventures. From high tech to healthcare IT, e-commerce, and influencer-led commerce, my experience covers a broad spectrum of sectors, each offering its unique set of challenges and learnings.
 
-Currently, I lead technology at [The Ayurveda Experience](https://www.theayurvedaexperience.com), a Skincare D2C company, where we leverage cutting-edge technology to drive efficiencies accross the supply chain, improve customer experience and enhance traditional skincare wisdom.
+Currently, I head technology at [The Ayurveda Experience](https://www.theayurvedaexperience.com), a Skincare D2C company, where we leverage cutting-edge technology to improve customer experience, drive efficiencies across distribution and the supply chain, improve customer experience and enhance traditional skincare wisdom.
 
 As we stand on the brink of a new era with AI transforming every aspect of our lives, I am especially excited about the advancements we are making in this field. I'm keen to invest in AI-first projects that resonate with my belief in technology's power to solve complex problems and improve lives.
 

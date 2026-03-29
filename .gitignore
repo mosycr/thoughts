@@ -4,3 +4,7 @@
 .jekyll-cache
 _site
 Gemfile.lock
+CLAUDE.local.md
+.DS_Store
+.agents/
+.claude/
