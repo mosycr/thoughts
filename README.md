@@ -9,6 +9,13 @@ An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh
 
 Undoubtably one of the great minds of our time, [Christopher Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme's design is inspired by the trade paperback version his book, [Arguably](https://en.wikipedia.org/wiki/Arguably), and is dedicated to his memory.
 
+Not comfortable with Jekyll? This theme has also been ported to other platforms:
+
+- [Hitchens for Hugo](https://github.com/pimoore/microdotblog-hitchens) by Pete Moore (also available to be used on [Micro.blog](https://micro.blog))
+- [Hitchens for Eleventy](https://github.com/shellen/hitchens-eleventy) by Jason Shellen
+
+**The following instructions pertain to Hitchens for Jekyll.**
+
 ## Quick Start
 
 This theme is, itself, a Jekyll blog, meaning the code base you see has everything you need to run a Jekyll powered blog!
