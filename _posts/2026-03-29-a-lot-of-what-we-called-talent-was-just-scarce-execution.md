@@ -5,19 +5,17 @@ layout: post
 category: AI, LLM, future of work
 ---
 
-#A lot of what we called talent was just scarce execution
-
 Anyone who has used the latest frontier models seriously comes away feeling two things at once: amazed, and completely, hopelessly lost.
 
 And honestly, for good reason.
 
-For decades, we built our identities around intelligence, hard work, deep knowledge, reliability, getting hard things done, and delivering under pressure. We celebrated people who could out-think, out-work and out-execute everyone around them. That was the game. And for a long time, it worked.
+For decades, we built our identities around intelligence, hard work, deep knowledge, reliability, getting hard things done, and delivering under pressure. We celebrated people who could out-think, out-work, and out-execute everyone around them. That was the game. And for a long time, it worked.
 
 But that game is breaking.
 
 Frontier models are mindblowing. They are already better informed than I am across a growing range of domains. They can sustain a level of speed, attention, and throughput I never could. In many coding workflows, Claude Code is already a stronger writer, debugger, and QA partner than most engineers, including me, on my best days.
 
-These systems are not flawless. Neither are humans. Net net, on more and more real work, they outperform us. And they will only get better.
+These systems are not flawless. Neither are humans. Net-net, on more and more real work, they outperform us. And they will only get better.
 
 If you are a software engineer, analyst, consultant, researcher, designer, or really anyone in knowledge work, you can already see the writing on the wall.
 
@@ -31,7 +29,7 @@ Frontier models are changing that. They make the quality of execution that used 
 
 What changes is not the nature of work. It is the qualities that make someone exceptional at it.
 
-Vision, or what people call taste these days, is becoming critical. Patience, the ability to not rush into implementation and to think through second- and third-order effects, is becoming vital. The ability to keep the outcome aligned with the objective, and earn trust, is now at a premium.
+Vision, or what people call taste these days, is becoming critical. Patience, the ability to not rush into implementation, and to think through second- and third-order effects, is becoming vital. The ability to keep the outcome aligned with the objective, and earn trust, is now at a premium.
 
 It reminds me of a line from *Siddhartha* by Hermann Hesse: “I can think, I can wait, I can fast.”
 
@@ -53,8 +51,7 @@ That is the muscle.
 
 And that is the moat.
 
-AI does not remove the need for skill. If anything, it raises the bar on what skill has to become. Execution still matters. But it is less and less the bottleneck. What matters is whether it is being directed well.
-Whether the person using the machine knows what they are doing, what tradeoffs they are making, what risks they are accepting, and what standards they are willing to hold.
+AI does not remove the need for skill. If anything, it raises the bar on what skill has to become. Execution still matters. But it is less and less the bottleneck. What matters is whether it is being directed well - whether the person using the machine knows what they are doing, what tradeoffs they are making, what risks they are accepting, and what standards they are willing to hold.
 
 Wisdom scales execution.
 
